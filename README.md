@@ -1,7 +1,4 @@
-## Meet me 👋
-
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/3qBPQ3FwgRA/hqdefault.jpg)](https://www.youtube.com/watch?v=3qBPQ3FwgRA&t=15s)
-
 <!--
 **JamieAlanWelsh/JamieAlanWelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
