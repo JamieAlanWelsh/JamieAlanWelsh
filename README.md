@@ -1,6 +1,6 @@
 ## Play my game!
 
-[![IMAGE ALT TEXT](https://img.itch.zone/aW1nLzE4NTI3NTE4LnBuZw==/original/%2Buf5oQ.png)]([https://www.youtube.com/watch?v=3qBPQ3FwgRA&t=15s](https://jwelshdev.itch.io/how-to-ask-your-boss-for-a-raise))
+[![IMAGE ALT TEXT](https://img.itch.zone/aW1nLzE4NTI3NTE4LnBuZw==/original/%2Buf5oQ.png)](https://jwelshdev.itch.io/how-to-ask-your-boss-for-a-raise)
 <!--
 **JamieAlanWelsh/JamieAlanWelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
